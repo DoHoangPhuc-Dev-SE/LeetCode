@@ -1,7 +1,7 @@
 /*
 LC 1431 - Kids With the Greatest Number of Candies
 Link: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
-Hours Effort: 00:15:00
+Hours Effort: 00:25:00
 Solution: Iterative (Array Scan)
 Time: O(N), Space: O(N)
 */
