@@ -2,8 +2,9 @@
 LC 49 - Group Anagrams
 Link: https://leetcode.com/problems/group-anagrams/
 Hours Effort: 01:38:14
-Solution: Sorting individual string keys (In Progress)
-Time: O(N * K log K), Space: O(1)
+Solution: Sorting individual string keys with qsort and indices (Optimized to avoid TLE)
+Time: O(N * K log K + N log N), Space: O(N * K)
+*/
 /**
  * Return an array of arrays of size *returnSize.
  * The sizes of the arrays are returned as *returnColumnSizes array.
